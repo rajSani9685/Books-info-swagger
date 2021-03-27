@@ -1,0 +1,10 @@
+public class SpringBootCrudOperationApplication   
+{  
+public static void main(String[] args)   
+{  
+SpringApplication.run(SpringBootCrudOperationApplication.class, args);  
+static
+{
+System.out.println("I AM RAJKUMAR");
+}
+}  
